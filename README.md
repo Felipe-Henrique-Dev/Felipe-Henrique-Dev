@@ -1,14 +1,20 @@
-# Olá! Eu sou Felipe-Henrique-Dev 👋
+# Olá! Eu sou Felipe👋
 
 ## Sobre mim
-Sou desenvolvedor e trabalho com JavaScript, AdonisJs, ReactJs, Socket, Mysql, Css e html.
+Sou desenvolvedor e trabalho com:
+- JavaScript
+- AdonisJS
+- ReactJS
+- Socket.io
+- MySQL
+- CSS
+- HTML
+- EC2 AWS
 
 ## Minhas estatísticas do GitHub
-[![Estatísticas do GitHub de Felipe-Henrique-Dev](https://github-readme-stats.vercel.app/api?username=Felipe-Henrique-Dev&show_icons=true&theme=dark)](https://github.com/Felipe-Henrique-Dev)
+[![Estatísticas do GitHub de Felipe-Henrique-Dev](https://github-readme-stats.vercel.app/api?username=Felipe-Henrique-Dev&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Felipe-Henrique-Dev)
 
-## Linguagens mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Henrique-Dev&layout=compact&theme=dark)](https://github.com/Felipe-Henrique-Dev)
 
-## Meus repositórios mais populares
-<!-- REPOS:START -->
-<!-- REPOS:END -->
+
+
+
