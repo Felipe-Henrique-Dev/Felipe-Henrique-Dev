@@ -2,6 +2,12 @@
 
 ## Sobre mim
 Sou desenvolvedor e trabalho com:
+- Next JS
+- Tailwind CSS
+- Assas
+- Stripe
+- Prisma
+- Next Auth
 - JavaScript
 - AdonisJS
 - ReactJS
